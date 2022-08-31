@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### Support Ukraine 🇺🇦 [Help Provide Humanitarian Aid to Ukraine](https://bank.gov.ua/en/about/humanitarian-aid-to-ukraine).
+### Support Ukraine 🇺🇦 [Help Provide Humanitarian Aid to Ukraine](https://bank.gov.ua/en/about/humanitarian-aid-to-ukraine).
 
 <!--
 **garikhg/garikhg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
