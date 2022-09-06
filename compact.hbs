@@ -1,0 +1,13 @@
+{{#each releases}}
+  ### [{{title}}]({{href}}) {{isoDate}}
+
+  {{#each merges}}
+    - {{message}} [`{{id}}`]({{href}})
+  {{/each}}
+  {{#each fixes}}
+    - Each fix has a {{commit}} with a {{commit.subject}}, an {{id}} and a {{href}} to the fixed issue.
+  {{/each}}
+  {{#each commits}}
+    - {{subject}} [`{{shorthash}}`]({{href}})
+  {{/each}}
+{{/each}}
